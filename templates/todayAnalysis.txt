@@ -1,7 +1,18 @@
 Write something about your day:
 
 
-Hour to Hour Analysis of the Day:
+Analysis of the Day Routine: [✅ or ❌]
+
+Wakeup at 6
+6:00-6:30: Yoga and meditation at home
+6:30-7:00-Freshen up + 4 Boiled Eggs
+7:00-11:00-Study DSA/ SDE Role
+11:00-6:00 Office+ Work related learning
+6:00-7:00-Come Back + Leave for Swimming
+7:00-8:00-Swimming/ Workout
+8:00-9:00-Bath+ Call with parents
+9:00-10:00-Dinner + Anime Watch
+10:00-11:00-Journal/reflection + brush + Sleep
 
 
 
@@ -21,10 +32,11 @@ Analyze yourself on grounds of Eating healthy and nutritious:
 
 
 Some Questions:
-Did you avoid masturbate/porn Today?
 Did you avoid outside food?
 Did you eat less than your meal?
 Did you avoid tea/coffee?
+Did you avoid going to bed before sleep?
+Did you avoid masturbate/porn Today?
 
 
 
