@@ -35,46 +35,49 @@ Only walk in physical activity
 Only sit in bed for focus time
 
 Phase 2: 11 Nov 2025 → 1 Dec 2025
-Leetcode Medium
+Leetcode Medium+ Sheet Easy+ LLD Basics Start
 Add Swimming in evening physical activity
 
 Phase 3: 2 Dec 2025 → 22 Dec 2025
-Leetcode Medium+Sheet Easy
+Leetcode Medium+ Sheet Easy-Medium+ LLD Medium
 Add Cycling in morning workout+ swimming in evening
 
 
 Phase 4: 23 Dec 2025 → 12 Jan 2026
-Leetcode Medium+Sheet Medium
+Leetcode Medium+Sheet Medium+ HLD Basics Start
 Start Proper Yoga
 Completely Quit Outside food
 
 
 Phase 5: 13 Jan 2026 → 2 Feb 2026
-Sheet Hard+Leetcode Medium
+Sheet Hard+Leetcode Medium+ LLD Advance
 Add alternate running and cycling in routine
 
 
 
 Phase 6: 3 Feb 2026 → 23 Feb 2026
-Sheet Hard+Leetcode Hard
+Sheet Hard+Leetcode Hard + HLD Medium
 Quit Milk tea and coffee+Quit using phone
 
 Phase 7: 24 Feb 2026 → 15 Mar 2026
+Sheet Hard+Leetcode Hard + HLD Hard
 Min 5km Running/ Min 20 km Cycling every day
 
 Phase 8: 16 Mar 2026 → 5 Apr 2026
+Sheet Hard+Leetcode Hard + HLD Hard+ LLD Hard
 Do exercise in 15 min break as well
 Study in office hours as well
 Company targeted questions
 
 
 Phase 9: 6 Apr 2026 → 26 Apr 2026
+Sheet Hard+Leetcode Hard + HLD Hard+ LLD Hard
 Increase complete focus on whatever you are doing
-Timed DSA+Times Leetcode question problem solving
+Timed Practice
 
 
 Phase 10: 27 Apr 2026 → 17 May 2026
-Showcase of ideal self.
+Showcase of ideal self-All in one go
 
 
 All the best, lets show our best version on 23 may 2026......
