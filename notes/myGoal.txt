@@ -6,78 +6,181 @@ I know that I need to excel in the following pillars:
 This time, the approach which i will be taking is 21 days routine building, adding difficulty
 every 21 days.
 
-My Basic Routine Shall be same only:
-
-Wakeup at 6
-6:00-6:30-Focus/ Yoga/ Meditation
-6:30-7:00-Brush and Fresh
-7:00-8:00-Physical Activity
-8:00-12:00-Study
-
-12:00-6:00-Office Work/ Study in weekends/leaves
-6:00-7:00-Transition Time (Free Time)
-7:00-8:00-Physical Activity
-8:00-10:00-Study
-10:00-11:00-Brush+Read Book+Write about day
-
-Note:
-Divide every productivity hour in 45/15 ratio
-Focus on discipline rather than hardwork
-Dont eat outside food
-Eat less than appetite
-
 
 Now let me discuss the phases:
 
-Phase 1: 18 Oct 2025 → 10 Nov 2025
-Leetcode Easy
-Only walk in physical activity
-Only sit in bed for focus time
+1️⃣ Phase 1: 22 Oct 2025 → 11 Nov 2025
 
-Phase 2: 11 Nov 2025 → 1 Dec 2025
-Leetcode Medium+ Sheet Easy+ LLD Basics Start
-Add Swimming in evening physical activity
-
-Phase 3: 2 Dec 2025 → 22 Dec 2025
-Leetcode Medium+ Sheet Easy-Medium+ LLD Medium
-Add Cycling in morning workout+ swimming in evening
-
-
-Phase 4: 23 Dec 2025 → 12 Jan 2026
-Leetcode Medium+Sheet Medium+ HLD Basics Start
-Start Proper Yoga
-Completely Quit Outside food
-
-
-Phase 5: 13 Jan 2026 → 2 Feb 2026
-Sheet Hard+Leetcode Medium+ LLD Advance
-Add alternate running and cycling in routine
+Wakeup at 6
+Only Striver SDE sheet (Easy+Med)
+Office
+No exercise no fitness
+no outside food
+Eat less than appetite
+Write about day
+Sleep at 11
 
 
 
-Phase 6: 3 Feb 2026 → 23 Feb 2026
-Sheet Hard+Leetcode Hard + HLD Medium
-Quit Milk tea and coffee+Quit using phone
+2️⃣ Phase 2: 12 Nov 2025 → 2 Dec 2025
 
-Phase 7: 24 Feb 2026 → 15 Mar 2026
-Sheet Hard+Leetcode Hard + HLD Hard
-Min 5km Running/ Min 20 km Cycling every day
-
-Phase 8: 16 Mar 2026 → 5 Apr 2026
-Sheet Hard+Leetcode Hard + HLD Hard+ LLD Hard
-Do exercise in 15 min break as well
-Study in office hours as well
-Company targeted questions
+Wakeup at 6
+Complete Striver Sheet (All) + LLD + System Design Basics + Start applying for jobs
+Office
+Swimming in evening after office (7-8 PM)
+No exercise no fitness
+no outside food
+Eat less than appetite
+Write about day
+Sleep at 11
 
 
-Phase 9: 6 Apr 2026 → 26 Apr 2026
-Sheet Hard+Leetcode Hard + HLD Hard+ LLD Hard
-Increase complete focus on whatever you are doing
-Timed Practice
 
 
-Phase 10: 27 Apr 2026 → 17 May 2026
-Showcase of ideal self-All in one go
+
+3️⃣ Phase 3: 3 Dec 2025 → 23 Dec 2025
+
+* Virtual Contests solve + LLD + HLD
+
+Wakeup at 6
+Office
+Swimming in evening after office (7-8 PM)
+No exercise no fitness
+no outside food
+Eat less than appetite
+Write about day
+Sleep at 11
+
+
+4️⃣ Phase 4: 24 Dec 2025 → 13 Jan 2026
+
+* GO TO DOCTOR
+* HLD+LLD+Contest everything (Target till Medium)
+
+Wakeup at 6
+6:00-6:30-Meditate on Bed
+6:30-7:00-Brush and Fresh
+7:00-8:00-Only Walk
+8:00-12:00-Study
+12:00-6:00-Office Work/ Study in weekends/leaves
+6:00-7:00-Transition Time
+7:00-8:00-Swimming
+8:00-10:00-Study
+10:00-11:00-Brush+Read Book+Write about day
+Sleep at 11
+
+
+5️⃣ Phase 5: 14 Jan 2026 → 3 Feb 2026
+
+* Leetcode Hard+ HLD + LLD Advance
+
+Wakeup at 6
+6:00-6:30-Meditate on Mat
+6:30-7:00-Brush and Fresh
+7:00-8:00-Jogging with breaks
+8:00-12:00-Study
+12:00-6:00-Office Work/ Study in weekends/leaves
+6:00-7:00-Transition Time
+7:00-8:00-Swimming
+8:00-10:00-Study
+10:00-11:00-Brush+Read Book+Write about day
+Sleep at 11
+
+
+
+
+6️⃣ Phase 6: 4 Feb 2026 → 24 Feb 2026
+
+* Leetcode Hard+ HLD + LLD Advance
+
+Wakeup at 5
+5:00-5:30-Meditate on Mat
+5:30-6:00-Brush and Fresh
+6:00-7:00-Running Start
+7:00-12:00-Study
+12:00-6:00-Office Work/ Study in weekends/leaves
+6:00-7:00-Transition Time
+7:00-8:00-Swimming
+8:00-9:00-Study
+9:00-10:00-Brush+Read Book+Write about day
+Sleep at 10:00 PM
+
+
+
+7️⃣ Phase 7: 25 Feb 2026 → 17 Mar 2026
+
+
+* Leetcode Hard+ HLD + LLD Advance
+
+Wakeup at 5
+5:00-5:30-Yoga+Meditation
+5:30-6:00-Brush and Fresh
+6:00-7:00-Running 5km with breaks
+7:00-12:00-Study Focused
+12:00-6:00-Study in office as well
+6:00-7:00-Transition Time
+7:00-8:00-Swimming
+8:00-9:00-Study
+9:00-10:00-Brush+Read Book+Write about day
+Sleep at 10:00 PM
+
+
+
+
+
+8️⃣ Phase 8: 18 Mar 2026 → 7 Apr 2026
+
+
+Wakeup at 5
+5:00-5:30-Advance Yoga
+5:30-6:00-Brush and Fresh
+6:00-7:00-Running 5km no break
+7:00-8:00-Nutritious Food Preparation for day
+7:00-12:00-Study Focused
+12:00-6:00-Study in office as well
+6:00-7:00-Transition Time
+7:00-8:00-Swimming
+8:00-9:00-Study
+9:00-10:00-Brush+Read Book+Write about day
+Sleep at 10:00 PM
+
+
+
+
+9️⃣ Phase 9: 8 Apr 2026 → 28 Apr 2026
+
+
+Wakeup at 5
+5:00-5:30-Advance Yoga
+5:30-6:00-Brush and Fresh
+6:00-7:00-Running 5km / 20 km cycling alternate
+7:00-8:00-Light Gym
+8:00-9:00-Nutritious Food Preparation for day
+9:00-12:00-Study Focused
+12:00-6:00-Study in office as well
+6:00-7:00-Transition Time
+7:00-8:00-Swimming
+8:00-9:00-Study
+9:00-10:00-Brush+Read Book+Write about day
+Sleep at 10:00 PM
+
+
+
+🔟 Phase 10: 29 Apr 2026 → 19 May 2026
+
+Wakeup at 5
+5:00-5:30-Advance Yoga
+5:30-6:00-Brush and Fresh
+6:00-7:00-Running 5km / 20 km cycling alternate
+7:00-8:00-Normal Gym
+8:00-9:00-Nutritious Food Preparation for day
+9:00-12:00-Study Focused
+12:00-6:00-Study in office as well
+6:00-7:00-Transition Time
+7:00-8:00-Swimming
+8:00-9:00-Study
+9:00-10:00-Brush+Read Book+Write about day
+Sleep at 10:00 PM
 
 
 All the best, lets show our best version on 23 may 2026......
