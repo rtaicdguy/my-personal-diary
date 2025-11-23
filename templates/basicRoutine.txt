@@ -1,11 +1,11 @@
-Wakeup at 6
-6:00-6:30-Focus/ Yoga/ Meditation
-6:30-7:00-Brush and Fresh
-7:00-8:00-Physical Activity
-8:00-12:00-Study
-
-12:00-6:00-Office Work/ Study in weekends/leaves
-6:00-7:00-Transition Time (Free Time)
-7:00-8:00-Physical Activity
-8:00-10:00-Study
-10:00-11:00-Brush+Read Book+Write about day
+Wakeup at 5:30
+5:30-6:00-Brush/ Fresh + Meditation
+6:00-8:00-Study/ SDE Learning
+8:00-8:45-Breakfast
+9:00-10:00-Badminton
+10:00-12:00-Study/ SDE Learning
+12:00-6:00-Office
+6:00-7:00-Transition Time
+7:00-8:00-Swimming
+8:00-9:00-Talk
+9:00-10:00-Read Book + Brush + Write about day
