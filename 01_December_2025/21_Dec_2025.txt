@@ -1,0 +1,11 @@
+Targets:
+
+HLD:
+    Logging
+    Monitoring
+    Traces
+
+LLD:
+    Design Tic Tac Toe
+DSA:
+    Bit Manipulation

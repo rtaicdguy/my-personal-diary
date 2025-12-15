@@ -1,0 +1,13 @@
+Targets:
+
+HLD:
+    API Design
+    Security and Authentication
+
+LLD:
+    Observer(Behavioral)
+    Strategy(Behavioral)
+    Command(Behavioral)
+    State(Behavioral)
+DSA:
+    Sliding Window + Two Pointers

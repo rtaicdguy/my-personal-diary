@@ -1,0 +1,16 @@
+Targets:
+
+HLD:
+    SQL vs NoSQL
+    DB Migration
+    Indexing, Replication, Sharding
+
+LLD:
+    Design Patterns:
+        Factory (Creational)
+        Abstract Factory (Creational)
+        Singleton (Creational)
+        Builder (Creational)
+        Adapter (Structural)
+DSA:
+    Linked Lists

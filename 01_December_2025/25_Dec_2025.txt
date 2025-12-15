@@ -1,0 +1,8 @@
+Targets:
+
+HLD:
+    Design Key-Value Store
+LLD:
+    Design Parking Lot
+DSA:
+    Heaps & Hashing

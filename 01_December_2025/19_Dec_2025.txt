@@ -1,0 +1,16 @@
+Targets:
+
+HLD:
+    Caching, CDN
+    Redis architecture
+    Redis Pub/Sub
+
+LLD:
+    Facade(Structural)
+    Decorator(Structural)
+    Composite(Structural)
+    Chain of Responsibility(Behavioral)
+
+
+DSA:
+    Stacks & Queues

@@ -1,0 +1,8 @@
+Targets:
+
+HLD:
+    Design Tiny URL
+LLD:
+    Design LRU Cache
+DSA:
+    Binary Search Tree + Trie

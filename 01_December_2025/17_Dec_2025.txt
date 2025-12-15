@@ -1,0 +1,12 @@
+Targets:
+
+HLD:
+    Back of the Envelope Calculations
+    Latency, Throughput, Availability, Consistency, Partition Tolerance
+    Proxy, Load Balancers
+LLD:
+    Design Principles(SOLID)
+    Class Diagram
+    Sequence Diagram
+DSA:
+    Strings
