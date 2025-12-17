@@ -1,4 +1,4 @@
 Targets:
 
 DSA:
-    Array Hard
+    Binary Search Tree + Trie

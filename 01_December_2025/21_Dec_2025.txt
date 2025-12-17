@@ -8,4 +8,4 @@ HLD:
 LLD:
     Design Tic Tac Toe
 DSA:
-    Bit Manipulation
+    Sliding Window + Two Pointers

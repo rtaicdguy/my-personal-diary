@@ -5,4 +5,4 @@ HLD:
 LLD:
     Design Parking Lot
 DSA:
-    Heaps & Hashing
+    Array Hard

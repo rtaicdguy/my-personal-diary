@@ -10,4 +10,4 @@ LLD:
     Command(Behavioral)
     State(Behavioral)
 DSA:
-    Sliding Window + Two Pointers
+    Stacks & Queues

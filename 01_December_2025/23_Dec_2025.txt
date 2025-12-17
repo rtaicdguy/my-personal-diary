@@ -5,4 +5,4 @@ HLD:
 LLD:
     Design LRU Cache
 DSA:
-    Binary Search Tree + Trie
+    Binary Tree

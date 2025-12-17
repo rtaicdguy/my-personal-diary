@@ -5,8 +5,8 @@ HLD:
     Latency, Throughput, Availability, Consistency, Partition Tolerance
     Proxy, Load Balancers
 LLD:
-    Design Principles(SOLID)
+    Design Principles
     Class Diagram
     Sequence Diagram
 DSA:
-    Strings
+    Arrays

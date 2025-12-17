@@ -13,4 +13,4 @@ LLD:
         Builder (Creational)
         Adapter (Structural)
 DSA:
-    Linked Lists
+    Strings

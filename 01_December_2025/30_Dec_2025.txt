@@ -5,4 +5,4 @@ HLD:
 LLD:
     Design Online Booking System
 DSA:
-    Binary Search
+    Dynamic Programming-II

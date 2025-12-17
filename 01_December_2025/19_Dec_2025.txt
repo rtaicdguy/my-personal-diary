@@ -13,4 +13,4 @@ LLD:
 
 
 DSA:
-    Stacks & Queues
+    Linked Lists

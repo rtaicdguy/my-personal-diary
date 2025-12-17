@@ -1,4 +1,4 @@
 Targets:
 
 DSA:
-    Graphs-I
+    Heaps & Hashing

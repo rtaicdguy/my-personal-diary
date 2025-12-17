@@ -5,4 +5,4 @@ HLD:
 LLD:
     Design Snake and Ladder
 DSA:
-    Binary Tree
+    Bit Manipulation

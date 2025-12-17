@@ -1,4 +1,4 @@
 Targets:
 
 DSA:
-    Contest
+    Binary Search
