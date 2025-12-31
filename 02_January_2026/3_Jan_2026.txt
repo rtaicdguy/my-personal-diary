@@ -1,0 +1,7 @@
+Targets:
+
+HLD:
+    Design News Feed System
+LLD:
+    Zomato
+    Meet Scheduler

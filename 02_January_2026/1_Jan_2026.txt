@@ -1,0 +1,7 @@
+Targets:
+
+HLD:
+    Design Key Value Store
+LLD:
+    Vending Machine
+    Book My Show

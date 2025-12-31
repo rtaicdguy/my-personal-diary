@@ -1,8 +1,0 @@
-Targets:
-
-HLD:
-    Design Messaging System (Kafka Line)
-LLD:
-    Design Vending Machine
-DSA:
-    Graphs-II

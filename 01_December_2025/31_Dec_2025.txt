@@ -1,4 +1,10 @@
 Targets:
 
-DSA:
-    Binary Search
+HLD:
+    Design BitLy
+    Design Rate Limiter
+
+LLD:
+    Design ATM Machine
+    Design Elevator System
+

@@ -1,8 +1,0 @@
-Targets:
-
-HLD:
-    Video Streaming (YT or Netflix)
-LLD:
-    Payment Gateway
-DSA:
-    Contest

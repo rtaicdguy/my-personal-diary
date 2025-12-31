@@ -1,8 +1,0 @@
-Targets:
-
-HLD:
-    Payment / Order Processing System
-LLD:
-    Design Elevator System
-DSA:
-    Dynamic Programming-I

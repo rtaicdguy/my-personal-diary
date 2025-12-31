@@ -1,8 +1,0 @@
-Targets:
-
-HLD:
-    Chat APP HLD
-LLD:
-    Design Online Booking System
-DSA:
-    Dynamic Programming-II

@@ -1,8 +1,0 @@
-Targets:
-
-HLD:
-    Design Rate Limiter
-LLD:
-    Design Snake and Ladder
-DSA:
-    Bit Manipulation

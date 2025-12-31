@@ -1,0 +1,7 @@
+Targets:
+
+HLD:
+    Design Chat Application
+    Design File Storage System
+LLD:
+    Library Management System
