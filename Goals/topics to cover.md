@@ -1,17 +1,14 @@
 High-Level Design (HLD) Questions (Top 10)
     Design a URL Shortening Service (TinyURL/Bit.ly)
     Design a Rate Limiter
-    Design a cache System (Key-Value store with TTL, LRU/ LFU eviction)
-    Design a notification system (email, SMS, push notifications)
-    Design a news feed system (Facebook/Twitter-like: posts, likes, comments)
-    Design a messaging system (WhatsApp/Slack-like: users, chats, messages)
     Design a file storage & sharing service (Google Drive/Dropbox-like)
+    Design instagram feed
+    Design a notification system (email, SMS, push notifications)
+    Design a messaging system (WhatsApp/Slack-like: users, chats, messages)
+    Design a news feed system (Facebook/Twitter-like: posts, likes, comments)
     Design online Ticket Booking System (flights, trains, buses)
-    Design instagram feed 
+    Design a cache System (Key-Value store with TTL, LRU/ LFU eviction)
     Design Youtube video streaming service
-
-    
-    
 
 Low-Level Design (LLD) Questions (Top 10)
     Design a Parking Lot System (class diagram for parking, floors, spots, vehicle, strategies)

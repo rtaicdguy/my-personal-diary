@@ -1,8 +1,8 @@
 Targets:
 
 HLD:
-    Design BitLy
-    Design Rate Limiter
+    Design BitLy (Done)
+    Design Rate Limiter (Done)
 
 LLD:
     Design ATM Machine
